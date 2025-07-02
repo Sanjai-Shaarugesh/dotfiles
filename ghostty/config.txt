@@ -10,6 +10,8 @@ window-padding-y = 12
 window-height = 20
 window-width = 70
 
+
+
 # Background Effects
 background-opacity = 0.85
 background-blur-radius = 20
@@ -87,3 +89,8 @@ auto-update = check
 # Custom Password Prompt Colors (Gold theme)
 # These work with shell integration to highlight sudo/password prompts
 unfocused-split-opacity = 0.7
+
+window-theme = ghostty
+
+adw-toolbar-style= flat
+
